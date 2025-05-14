@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
-- ![CatCatMemeGIF](https://github.com/user-attachments/assets/585e33f0-b24b-4ac8-a0b2-4a20545bf2e3)
+  
+![SeriouslySeriouslyCatGIF](https://github.com/user-attachments/assets/761b521d-a364-4961-9cb8-c23db8be37bd)
 
 
 <!---
