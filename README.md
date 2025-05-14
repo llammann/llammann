@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ![WhatHappenedWhatHappenedToYouAsAChildGIF](https://github.com/user-attachments/assets/dd129caa-3828-441d-a466-099e0d63a707)
+- ⚡ Fun fact: ![CatStareGIF](https://github.com/user-attachments/assets/0336ff14-5614-410f-b9e2-1aee768fddd5)
+
 
 
 <!---
