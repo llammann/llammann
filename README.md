@@ -7,9 +7,6 @@
 - ⚡ Fun fact:
 - ![SillyGIF](https://github.com/user-attachments/assets/f2b1dfc8-c1a0-4508-968f-d9bea2f204fd)
 
-
-
-
 <!---
 llammann/llammann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
