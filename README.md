@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ![AreYouForRealCatGIF](https://github.com/user-attachments/assets/65005d22-7609-4289-9f57-b0e4d54f905d)
+- ⚡ Fun fact: ![CatStupidGIF](https://github.com/user-attachments/assets/87d7bd3d-01f3-463c-ab56-0219bdf96d10)
+
 <!---
 llammann/llammann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
